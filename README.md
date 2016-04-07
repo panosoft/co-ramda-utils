@@ -1,5 +1,7 @@
 # co-ramda-utils
 
+[![Travis](https://img.shields.io/travis/panosoft/co-ramda-utils.svg)](https://travis-ci.org/panosoft/co-ramda-utils)
+
 Utilities built on top of **co** and **Ramda** to support common functional iterators with generators as callbacks instead of simple functions.
 
 ## Installation
