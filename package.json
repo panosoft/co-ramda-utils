@@ -1,6 +1,6 @@
 {
   "name": "@panosoft/co-ramda-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Async ramda-utils",
   "repository": "panosoft/co-ramda-utils",
   "main": "lib/index.js",
